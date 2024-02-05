@@ -160,7 +160,7 @@ int main() //    main function //
 	cout<<"   *                               *\n";
 	cout<<"   *                               *\n";
 	cout<<"   *                               *\n";
-	cout<<"   *      ! CONRAtuLATION !        *\n";
+	cout<<"   *      ! congratulation !        *\n";
 	cout<<"   *                               *\n";
 	cout<<"   *                               *\n";
 	cout<<"   *                               *\n";
@@ -196,7 +196,7 @@ int main() //    main function //
 	cout<<"   *                               *\n";
 	cout<<"   *                               *\n";
 	cout<<"   *                               *\n";
-	cout<<"   *      ! CONRAtuLATION !        *\n";
+	cout<<"   *      ! congratulation !        *\n";
 	cout<<"   *                               *\n";
 	cout<<"   *                               *\n";
 	cout<<"   *                               *\n";
